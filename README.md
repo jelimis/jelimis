@@ -12,7 +12,7 @@
 
 
 #### **Education**  
-Dongduk Women's University / Business Administration (14.03 ~ 22.02)  
+Dongduk Women's University / Business Administration (14.03 ~ 20.02)  
 Kosta Edu / Back-End Engineer Education (20.06 ~ 20.12)
   
     
